@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.br
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, aws-v2-sdk, cache-ehcache, data, data-jdbc, dynamodb, email-javamail, email-template, github-workflow-azure-container-instance, github-workflow-docker-registry, hibernate-validator, http-client, http-session, jackson-databind, java, java-application, jdbc-hikari, junit, log4j2, lombok, maven, micronaut-aot, microstream, microstream-rest, mockito, netty-server, openapi, oracle, problem-json, properties, rabbitmq, readme, security-annotations, security-jwt, security-oauth2, shade, spring, spring-boot, spring-data-jdbc, spring-web, swagger-ui, testcontainers]
